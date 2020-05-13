@@ -1,3 +1,4 @@
+<img src="Screenshots/launcher_foreground.png" width="162" Title="LiLo - Logo" />
 # LiLo (Public) 
 Public repository for the LiLo (Ladder In Ladder Out) Mobile Application.
 
@@ -8,8 +9,8 @@ LiLo helps facilitate advanced leverage cryptocurrency trading on the ByBit exch
 - Real-time market information. Including positive and negative price change highlighting, market 24hr price highs and lows, 1hr and 24hr percentage changes along with trading volume.
 - Real-time currency charting from [TradingView](https://uk.tradingview.com/).
 - Simplified currency ordering.
-- Easily use the last price in your order.
-- Easily generate a ladder order between the start and end price for a given number of 'rungs', linearly applied for a contract quantity.
+- Easily use the last price in order creation.
+- Easily generate ladder orders between the start and end price for a given number of 'rungs', linearly applied for a contract quantity.
 - Quickly review and edit any orders
 - Recieve automatic notifications of application updates for easy updates.
 
@@ -23,10 +24,11 @@ The LiLo app is currently available for these platforms:
 | iOS      | N/A        | N/A       |
 | UWP      | N/A        | N/A       |
 
-
 Both the iOS and UWP (Universal Windows Platform) versions are currently work-in-progress as we concentrate on the Android release.
 
 ## Screens
+NOTE: All of the screen shots are subject to change as the application evolves.
+
 ### Markets view
 <img src="Screenshots/10.png" width="210" Title="Home view - Light theme" /> <img src="Screenshots/15.png" width="210" Title="Home view - Dark theme" /> <img src="Screenshots/16.png" width="210" Title="Home view - live-update" />
 
