@@ -37,22 +37,22 @@ We use [![GitHub issues](https://img.shields.io/github/issues/GeorgeLeithead/LiL
 NOTE: All of the screen shots are subject to change as the application evolves.
 
 ### Markets view
-![Home view - Light theme](Screenshots/10.png){:width="40px"} ![Home view - Dark theme](Screenshots/15.png){:width="240px"} ![Home view - live-update](Screenshots/16.png){:width="240px"}
+<img alt="Home view - Light theme" src="Screenshots/10.png" width="240" /> <img alt="Home view - Dark theme" src="Screenshots/15.png" width="240" /> <img alt="Home view - live-update" src="Screenshots/16.png" width="240" />
 
 ### Chart view
-![Chart view](Screenshots/20.png){:width="40px"}
+<img alt="Chart view" src="Screenshots/20.png" width="240" />
 
 ### Order view
-![Order view](Screenshots/30.png){:width="40px"} ![Order view - form filled](Screenshots/31.png){:width="40px"} ![Order Confirmation view](Screenshots/35.png){:width="40px"} ![Order Confirmation view - Edit order](Screenshots/36.png){:width="40px"}
+<img alt="Order view" src="Screenshots/30.png" width="240" /> <img alt="Order view - form filled" src="Screenshots/31.png" width="240" /> <img alt="Order Confirmation view" src="Screenshots/35.png" width="240" /> <img alt="Order Confirmation view - Edit order" src="Screenshots/36.png" width="240" />
 
 ### Position view
 ...to be implemented...
 
 ### Settings view
-![Settings view](Screenshots/50.png){:width="40px"} ![Settings View - Help](Screenshots/54.png){:width="40px"}
+<img alt="Settings view" src="Screenshots/50.png" width="240" /> <img alt="Settings View - Help" src="Screenshots/54.png" width="240" />
 
 ### Update notification (automatic)
-![Update notification view](Screenshots/60.png){:width="40px"} ![Update install view](Screenshots/61.png){:width="40px"}
+<img alt="Update notification view" src="Screenshots/60.png" width="240" /> <img alt="Update install view" src="Screenshots/61.png" width="240" />
 
 ## DISCLAIMER
 
