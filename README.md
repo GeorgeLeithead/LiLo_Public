@@ -31,7 +31,7 @@ Both the iOS and UWP (Universal Windows Platform) versions are currently work-in
 If you want to get in contact with us on social platforms, you can reach us on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LiLoMobileApp.svg?style=social&label=Follow%20%40LiLoMobileApp)](https://twitter.com/LiLoMobileApp).  *No personal information* is collected by the application, as such we don't know who you are, so please get in touch and let us know what you thin about LiLo.
 
 ## Reporting bugs
-We use [![GitHub issues](https://img.shields.io/github/issues/GeorgeLeithead/LiLo_Public)](https://github.com/GeorgeLeithead/LiLo_Public/issues) to track issues.  Feedback with improvements and raising of issues will be highly appreciated and accepted.
+We use GitHub issues [![GitHub issues](https://img.shields.io/github/issues/GeorgeLeithead/LiLo_Public)](https://github.com/GeorgeLeithead/LiLo_Public/issues) to track issues.  Feedback with improvements and raising of issues will be highly appreciated and accepted.
 
 ## Screens
 NOTE: All of the screen shots are subject to change as the application evolves.
