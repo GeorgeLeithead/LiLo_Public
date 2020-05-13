@@ -1,4 +1,5 @@
-<img src="Screenshots/launcher_foreground.png" width="162" Title="LiLo - Logo" />
+![LiLo](Screenshots/launcher_foreground.png "LiLo - logo")
+
 # LiLo (Public) 
 Public repository for the LiLo (Ladder In Ladder Out) Mobile Application.
 
@@ -26,29 +27,36 @@ The LiLo app is currently available for these platforms:
 
 Both the iOS and UWP (Universal Windows Platform) versions are currently work-in-progress as we concentrate on the Android release.
 
+## Social
+If you want to get in contact with us on social platforms, you can reach us on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LiLoMobileApp.svg?style=social&label=Follow%20%40LiLoMobileApp)](https://twitter.com/LiLoMobileApp).  *No personal information* is collected by the application, as such we don't know who you are, so please get in touch and let us know what you thin about LiLo.
+
+## Reporting bugs
+We use [![GitHub issues](https://img.shields.io/github/issues/GeorgeLeithead/LiLo_Public)](https://github.com/GeorgeLeithead/LiLo_Public/issues) to track issues.  Feedback with improvements and raising of issues will be highly appreciated and accepted.
+
 ## Screens
 NOTE: All of the screen shots are subject to change as the application evolves.
 
 ### Markets view
-<img src="Screenshots/10.png" width="210" Title="Home view - Light theme" /> <img src="Screenshots/15.png" width="210" Title="Home view - Dark theme" /> <img src="Screenshots/16.png" width="210" Title="Home view - live-update" />
+![Home view - Light theme](Screenshots/10.png) ![Home view - Dark theme](Screenshots/15.png) ![Home view - live-update](Screenshots/16.png)
 
 ### Chart view
-<img src="Screenshots/20.png" width="210" Title="Chart view" /> 
+![Chart view](Screenshots/20.png)
 
 ### Order view
-<img src="Screenshots/30.png" width="210" Title="Order view" /> <img src="Screenshots/31.png" width="210" Title="Order view - form filled" /> <img src="Screenshots/35.png" width="210" Title="Order Confirmation view" />  <img src="Screenshots/36.png" width="210" Title="Order Confirmation view - Edit order" /> 
+![Order view](Screenshots/30.png) ![Order view - form filled](Screenshots/31.png) ![Order Confirmation view](Screenshots/35.png) ![Order Confirmation view - Edit order](Screenshots/36.png)
 
 ### Position view
+...to be implemented...
 
 ### Settings view
-<img src="Screenshots/50.png" width="210" Title="Settings view" /> <img src="Screenshots/54.png" width="210" Title="Settings View - Help" /> 
+![Settings view](Screenshots/50.png) ![Settings View - Help](Screenshots/54.png)
 
 ### Update notification (automatic)
-<img src="Screenshots/60.png" width="210" Title="Update notification view" /> <img src="Screenshots/61.png" width="210" Title="Update install view" /> 
+![Update notification view](Screenshots/60.png) ![Update install view](Screenshots/61.png)
 
 ## DISCLAIMER
 
-** IMPORTANT:** LiLo is currently in an **ALPHA** state. We are working toward making the application ready for production release. As such, you use the application **at your own risk**.  Many areas of the application may not be available and functionality will be subject to change.  Feedback with improvements and raising of issues from the user base will be highly appreciated and accepted.  Submit any issue or feature request here [Issues](https://github.com/GeorgeLeithead/LiLo_Public/issues).
+** IMPORTANT:** LiLo is currently in an **ALPHA** state. We are working toward making the application ready for production release. As such, you use the application **at your own risk**.  Many areas of the application may not be available and functionality will be subject to change.
 
 It is highly recommended that you test the LiLo application and your trading ideas on TestNet/Developer network, before risking real currencies on MainNet.
 **You** are responsible for keeping your API key(s) safe. If you suspect that your key(s) have been compromised, it is your responsibility to immediately remove them and generate new keys on the ByBit network.
@@ -67,6 +75,3 @@ https://testnet.bybit.com/user/api-management
 
 > For Mainnet
 https://www.bybit.com/app/user/api-management
-
-## Social
-We welcome all constructive feedback and encourage you to try LiLo (on the developer/testnet network).  Please submit any issue or feature request here [Issues](https://github.com/GeorgeLeithead/LiLo_Public/issues), and if you want to get in contact with us on social platforms, you can reach us on [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/LiLoMobileApp.svg?style=social&label=Follow%20%40LiLoMobileApp)](https://twitter.com/LiLoMobileApp)
