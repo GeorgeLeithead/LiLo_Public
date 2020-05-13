@@ -37,22 +37,22 @@ We use [![GitHub issues](https://img.shields.io/github/issues/GeorgeLeithead/LiL
 NOTE: All of the screen shots are subject to change as the application evolves.
 
 ### Markets view
-![Home view - Light theme](Screenshots/10.png) ![Home view - Dark theme](Screenshots/15.png) ![Home view - live-update](Screenshots/16.png)
+![Home view - Light theme](Screenshots/10.png){:width="40px"} ![Home view - Dark theme](Screenshots/15.png){:width="240px"} ![Home view - live-update](Screenshots/16.png){:width="240px"}
 
 ### Chart view
-![Chart view](Screenshots/20.png)
+![Chart view](Screenshots/20.png){:width="40px"}
 
 ### Order view
-![Order view](Screenshots/30.png) ![Order view - form filled](Screenshots/31.png) ![Order Confirmation view](Screenshots/35.png) ![Order Confirmation view - Edit order](Screenshots/36.png)
+![Order view](Screenshots/30.png){:width="40px"} ![Order view - form filled](Screenshots/31.png){:width="40px"} ![Order Confirmation view](Screenshots/35.png){:width="40px"} ![Order Confirmation view - Edit order](Screenshots/36.png){:width="40px"}
 
 ### Position view
 ...to be implemented...
 
 ### Settings view
-![Settings view](Screenshots/50.png) ![Settings View - Help](Screenshots/54.png)
+![Settings view](Screenshots/50.png){:width="40px"} ![Settings View - Help](Screenshots/54.png){:width="40px"}
 
 ### Update notification (automatic)
-![Update notification view](Screenshots/60.png) ![Update install view](Screenshots/61.png)
+![Update notification view](Screenshots/60.png){:width="40px"} ![Update install view](Screenshots/61.png){:width="40px"}
 
 ## DISCLAIMER
 
