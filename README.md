@@ -23,7 +23,7 @@ The LiLo app is currently available for these platforms:
 | -------- | ------- | ------------ |
 | Android  | [Alpha](https://tinyurl.com/LiLoApp) | [![Build status](https://build.appcenter.ms/v0.1/apps/c414af6f-de0a-40d7-b5b6-5470d4734714/branches/1.0.1/badge)](https://appcenter.ms) |
 | iOS      | N/A        | N/A       |
-| UWP      | N/A        | N/A       |
+| UWP      | [Alpha](https://install.appcenter.ms/users/george-internetwideworld.com/apps/LiLo-2/releases/)        | [![Build status](https://build.appcenter.ms/v0.1/apps/b0df3919-d98f-485b-b5f4-4de5f11f3d4f/branches/1.0.1/badge)](https://appcenter.ms) |
 
 Both the iOS and UWP (Universal Windows Platform) versions are currently work-in-progress as we concentrate on the Android release.
 
